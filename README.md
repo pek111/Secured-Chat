@@ -10,22 +10,22 @@ It is very easy to install, just follow the steps below.
 
 1. First, you must have [Python](https://www.python.org/) installed. Python version 3.10.1 and above is tested, any version before that is not guaranteed to run properly. (Note: This program was written on Python version 3.12.3)
 2. And then you must install all dependencies to run the program. I recommend using Virtual Environments such as [conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html) and venv.
-3. If you wish to use venv, please follow [these instructions](##Installing-dependencies-with-venv).
+3. If you wish to use venv, please follow [these instructions](#Installing-dependencies-with-venv).
 4. Now it's time to install the required dependencies. Use `pip install -r requirements.txt` to automatically install all required dependencies.
 5. After you've installed the required dependencies, you can simply double-click on `main.py` or run `python main.py` to run the program.
-6. Well done! You've completed all installation processes and can now proceed to [program usage](##Usage).
+6. Well done! You've completed all installation processes and can now proceed to [program usage](#Usage).
 
 ### Installing dependencies with venv
 
 1. First, install the venv package with `pip install venv`
 2. Then navigate to the folder you want to create the virtual environment and use `python venv .venv`
-3. Great job! You've created a virtual environment. You can now proceed to the next step of [installation](##Installation).
+3. Great job! You've created a virtual environment. You can now proceed to the next step of [installation](#Installation).
 
 ## Usage
 
 After you've completed all installation processes, you can now use the program.
 
-You must first choose between hosting a server or connecting to a hosted server. If you choose to host a server, head to [Hosting a Server](###Hosting-a-Server). But if you choose to connect to a hosted server, head to [Connecting to a Server](###Connecting-to-a-Server)
+You must first choose between hosting a server or connecting to a hosted server. If you choose to host a server, head to [Hosting a Server](#Hosting-a-Server). But if you choose to connect to a hosted server, head to [Connecting to a Server](#Connecting-to-a-Server)
 
 ### Hosting a Server
 
