@@ -1,6 +1,5 @@
 rsa>=4.9
 pycryptodome>=3.20.0
-pyargon2>=1.0.7
 maskpass>=0.3.7
 password-strength>=0.0.3.post2
 pyperclip>=1.8.2
