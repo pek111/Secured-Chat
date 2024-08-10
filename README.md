@@ -51,5 +51,5 @@ It is very easy to connect to a server. You can follow the steps below to see ho
 
 ## License
 
-This project is unlicensed
+This project is unlicensed, use it how ever you like
 
