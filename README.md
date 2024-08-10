@@ -8,7 +8,7 @@ Yes. It's a private chat with two layers* of encryption.
 
 It is very easy to install, just follow the steps below.
 
-1. First, you must have [Python](https://www.python.org/) installed. Python version 3.10.1 and above is tested, any version before that is not guaranteed to run properly. (Note: This program was written on Python version 3.12.3)
+1. First, you must have [Python](https://www.python.org/) installed. Python version 3.10.x and above is tested, any version before that is not guaranteed to run properly. (Note: This program was written on Python version 3.12.4)
 2. And then you must install all dependencies to run the program. I recommend using Virtual Environments such as [conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html) and venv.
 3. If you wish to use venv, please follow [these instructions](#Installing-dependencies-with-venv).
 4. Now it's time to install the required dependencies. Use `pip install -r requirements.txt` to automatically install all required dependencies.
@@ -33,7 +33,7 @@ To host a server, you must have at least one open port and your IPv4 address (yo
 
 You can use your local IP address if your partner is in the same network as you or the same VPN network.
 
-But if not, you can forward a port and use your public IP address (**VERY DANGEROUS**) or use something like [ngrok](https://ngrok.com/), [locahost.run](https://localhost.run/) or [Serveo](https://serveo.net/) (kinda broken but great).
+But if not, you can forward a port and use your public IP address (**VERY DANGEROUS**) or use something like [ngrok](https://ngrok.com/), [locahost.run](https://localhost.run/) or [Serveo](https://serveo.net/) (great).
 
 1. First, enter your desired hosting IP address.
 2. Then enter your desired hosting port.
@@ -51,6 +51,5 @@ It is very easy to connect to a server. You can follow the steps below to see ho
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is unlicensed
 
-Have fun chatting :)
